@@ -11,8 +11,8 @@
 ## 📥 Running the Project Locally
 
 ```sh
-git clone https://github.com/your-repo/byteex-app.git
-cd byteex-app
+git clone https://github.com/Mariia-Ostapets/cat-crm-sass
+cd cat-crm-sass
 npm install
 npm run dev
 ```
