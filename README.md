@@ -2,7 +2,7 @@
 
 **Cat CRM** project built with **HTML, CASS, Vite**
 
-[**Live page**](https://byteex-app-pi.vercel.app/)
+[**Live page**](https://mariia-ostapets.github.io/cat-crm-sass/)
 
 ## 🖼️ Preview
 
